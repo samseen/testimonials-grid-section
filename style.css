@@ -66,3 +66,11 @@ body {
 .white-text {
     color: white;
 }
+
+.dark-text {
+    color: hsl(0, 0%, 50%);
+}
+
+img.circle {
+    border-radius: 50%;
+}
