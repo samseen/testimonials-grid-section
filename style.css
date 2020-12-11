@@ -73,7 +73,7 @@ body {
 
 img.circle {
     border-radius: 50%;
-    border: 5px solid hsl(263, 85%, 60%);
+    border: 3px solid hsl(263, 85%, 60%);
     max-width: 50%;
     height: auto;
 }
